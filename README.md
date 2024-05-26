@@ -37,6 +37,15 @@ ansible-playbook -i 192.168.8.104, playbook.yml --ask-vault-pass    or   --vault
 
     Replace playbook.yml with the name of your playbook file.
 
+
+   ![12](https://github.com/Mostafayouni/Ansiblelab3/assets/105316729/2a74bf78-8a5b-4d09-a086-afd47df4b210)
+
+
+
+   ![13](https://github.com/Mostafayouni/Ansiblelab3/assets/105316729/2b16f409-76f5-4923-8674-c354d4ccc567)
+
+
+
 Verify Configuration:
 
     After running the playbook, verify that MySQL is installed, enabled, and started on the target host (192.168.8.104).
