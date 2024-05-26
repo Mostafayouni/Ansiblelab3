@@ -55,8 +55,7 @@ Access MySQL:
         
 
         
-
-        ![15](https://github.com/Mostafayouni/Ansiblelab3/assets/105316729/13e023a1-d3da-4fc9-ae52-941a4f955893)
+ ![15](https://github.com/Mostafayouni/Ansiblelab3/assets/105316729/13e023a1-d3da-4fc9-ae52-941a4f955893)
 
         
 
